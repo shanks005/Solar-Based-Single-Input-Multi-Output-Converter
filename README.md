@@ -12,7 +12,7 @@ The system is designed using a photovoltaic source, MPPT-controlled boost conver
 
 ## System Block Diagram
 
-![System Block Diagram](images/simulation_diagram.png)
+![System Block Diagram](https://github.com/shanks005/Solar-Based-Single-Input-Multi-Output-Converter/blob/main/simulation_diagram.png)
 
 The overall power flow of the system is:
 
